@@ -1,0 +1,6 @@
+[2026-11-08T09:10:11.333Z] GET file:///Users/juliaalvarez/Projects/markit-site/support/index.html → 200 (8ms, 1951B)
+[2026-11-08T09:10:11.352Z] GET https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap → 200 (138ms, 1232B)
+[2026-11-08T09:10:11.352Z] GET file:///Users/juliaalvarez/Projects/markit-site/style.css → 200 (1ms, 1875B)
+[2026-11-08T09:10:11.352Z] GET file:///Users/juliaalvarez/Projects/markit-site/icon.png → 200 (3ms, 19560B)
+[2026-11-08T09:10:11.352Z] GET file:///Users/juliaalvarez/Projects/markit-site/contact.js → 200 (12ms, 683B)
+[2026-11-08T09:10:11.526Z] GET https://fonts.gstatic.com/s/sourceserif4/v15/vEFI2_tTDB4M7-auWDN0ahZJW1gb8te1Xb7G.woff2 → 200 (208ms, 122765B)
