@@ -36,16 +36,14 @@ main {
   padding: 48px 20px 64px;
 }
 
-header {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  margin-bottom: 32px;
-}
+header { margin-bottom: 32px; }
 
 header img { width: 44px; height: 44px; border-radius: 10px; }
 
 header a {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
   color: var(--ink);
   font: 600 15px/1 -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
   text-decoration: none;
